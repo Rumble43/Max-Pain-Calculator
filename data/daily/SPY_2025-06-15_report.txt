@@ -1,0 +1,19 @@
+MAX PAIN REPORT - SPY
+Generated: 2025-06-15 18:59:50
+Current Price: $597.00
+============================================================
+
+EXPIRATION: 2025-06-16 (1 days)
+Max Pain Price: $600.00
+Distance from Current: $3.00 (+0.50%)
+Put/Call Ratio: 1.865
+Total Put OI: 159,782
+Total Call OI: 85,694
+Contracts Analyzed: 178
+
+Nearby Strike Analysis:
+  $598.00: Pain Value = $13,353,900
+  $599.00: Pain Value = $11,797,200
+  $600.00: Pain Value = $10,584,200 <- MAX PAIN
+  $601.00: Pain Value = $10,739,000
+  $602.00: Pain Value = $11,346,600

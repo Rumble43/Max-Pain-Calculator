@@ -1,0 +1,40 @@
+{
+  "max_pain_price": 600.0,
+  "current_stock_price": 597,
+  "distance_from_current": 3.0,
+  "percentage_from_current": 0.5025125628140703,
+  "put_call_ratio": 1.865,
+  "total_put_oi": 159782,
+  "total_call_oi": 85694,
+  "nearby_strikes": [
+    {
+      "strike": 598.0,
+      "pain": 13353900.0,
+      "is_max_pain": false
+    },
+    {
+      "strike": 599.0,
+      "pain": 11797200.0,
+      "is_max_pain": false
+    },
+    {
+      "strike": 600.0,
+      "pain": 10584200.0,
+      "is_max_pain": true
+    },
+    {
+      "strike": 601.0,
+      "pain": 10739000.0,
+      "is_max_pain": false
+    },
+    {
+      "strike": 602.0,
+      "pain": 11346600.0,
+      "is_max_pain": false
+    }
+  ],
+  "calculation_time": "2025-06-15T18:59:50.302778",
+  "total_contracts_analyzed": 178,
+  "expiration_date": "2025-06-16",
+  "days_to_expiration": 1
+}

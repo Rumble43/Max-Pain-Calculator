@@ -1,0 +1,1 @@
+# Max Pain Calculator Package
